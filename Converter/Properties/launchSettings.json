@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SimcToBrConverter.cli": {
+      "commandName": "Project",
+      "commandLineArgs": "--in MonkWW.txt --out MonkWW.lua",
+      "workingDirectory": "C:\\Data\\Code\\Converter\\Converter\\StaticContent"
+    }
+  }
+}
